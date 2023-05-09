@@ -1,0 +1,12 @@
+Zazu1,3,macho,Loro,En proceso de Operacion
+Zazu2,4,hembra,gato,PostOperatorio
+Zazu3,5,macho,gato,En proceso de Operacion
+Zazu4,6,macho,gato,PostOperatorio
+Zazu5,7,macho,perro,En proceso de Operacion
+Zazu6,6,hembra,perro,PostOperatorio
+Zazu7,7,macho,perro,En proceso de Operacion
+Zazu1,3,macho,gato,PostOperatorio
+Zazu1,3,hembra,perro,En proceso de Operacion
+Zazu1,3,macho,gato,PostOperatorio
+Zazu1,3,hembra,perro,PostOperatorio
+Zazu1,3,macho,gato,En proceso de Operacion
